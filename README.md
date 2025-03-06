@@ -49,7 +49,7 @@ If you check out my projects, many of them involve **AI, full-stack development,
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LakshyaBetala&show_icons=true&theme=dark" width="400"/> 
   <br><br> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaBetal&theme=dark" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaBetala&theme=dark" width="400"/> </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaBetala&theme=dark" width="400"/> </p>
  
 
 ---
