@@ -18,7 +18,7 @@ I specialize in **building scalable applications, AI-powered solutions, and expl
 If you check out my projects, many of them involve **AI, full-stack development, and IoT**. Here are my most-used technologies:  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaBetal&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaBetala&layout=compact&theme=dark" />
 </p>
 
 ---
