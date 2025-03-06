@@ -26,7 +26,7 @@ If you check out my projects, many of them involve **AI, full-stack development,
 ## **💼 Connect with Me**  
 
 <p align="left">
-  <a href="https://www.instagram.com/lakshybetala/">
+<a href="https://www.instagram.com/laksh_betala/">
     <img src="https://img.shields.io/badge/Instagram-222222?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <br>
