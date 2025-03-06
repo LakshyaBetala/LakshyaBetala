@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 
-## **Hello, I'm Lakshy Betala!** 👋  
+## **Hello, I'm Lakshya Betala!** 👋  
 
 I am a **B.Tech student** passionate about **full-stack development, AI, and machine learning**.  
 I specialize in **building scalable applications, AI-powered solutions, and exploring emerging technologies**.  
@@ -18,7 +18,7 @@ I specialize in **building scalable applications, AI-powered solutions, and expl
 If you check out my projects, many of them involve **AI, full-stack development, and IoT**. Here are my most-used technologies:  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshybetala&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaBetal&layout=compact&theme=dark" />
 </p>
 
 ---
@@ -34,11 +34,11 @@ If you check out my projects, many of them involve **AI, full-stack development,
     <img src="https://img.shields.io/badge/X-222222?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <br>
-  <a href="https://www.linkedin.com/in/lakshybetala/">
+  <a href="https://www.linkedin.com/in/lakshya-betala-662991326/">
     <img src="https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br>
-  <a href="mailto:lakshybetala@gmail.com">
+  <a href="mailto:lakshbetala15@gmail.com">
     <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -48,9 +48,9 @@ If you check out my projects, many of them involve **AI, full-stack development,
 ## **📈 GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshybetala&show_icons=true&theme=dark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LakshyaBetal&show_icons=true&theme=dark" width="400"/>
 <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshybetala&theme=dark" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaBetal&theme=dark" width="400"/>
 </p>
 
 ---
@@ -63,4 +63,3 @@ If you check out my projects, many of them involve **AI, full-stack development,
 🔹 **ESP8266 Digital Campus** – IoT-based automation for smart campuses  
 
 🔥 **Let’s create something innovative and impactful!** 🚀
-
