@@ -6,7 +6,7 @@ I am a **B.Tech student** passionate about **full-stack development, AI, and mac
 I specialize in **building scalable applications, AI-powered solutions, and exploring emerging technologies**.  
 
 ### **🔹 About Me**  
-- 🎯 **Currently Learning:** Data Structures & Algorithms, AI & ML  
+- 🎯 **Currently Learning:** Data Structures & Algorithms, ML  
 - 🛠️ **Tech Stack:** Python, Java, JavaScript, HTML, CSS, React, Next.js  
 - 🚀 **Exploring:** Web3, System Design, Backend Architecture, and AI-based Applications  
 - 🤝 **Open to Collaboration:** Always up for innovative and impactful projects  
