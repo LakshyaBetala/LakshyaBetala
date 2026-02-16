@@ -12,7 +12,7 @@
 ## ⚡ Quick Stats
 - 🎓 **Academic Excellence:** 9.60/10.0 GPA at SRM Institute of Science and Technology
 - 🏢 **Industry Impact:** AI/ML Software Engineering Intern @ **Samsung R&D**
-- 💡 **Entrepreneurship:** Co-Founder & CTO of **DoItForMe** (Student Gig Marketplace)
+- 💡 **Entrepreneurship:** Co-Founder & CTO of **[DoItForMe](https://www.doitforme.in)** (Student Gig Marketplace)
 - 🏆 **Competition:** 3x Hackathon Winner (SRM HackFeb, Ex30 FinTech, Data Vortex)
 - 🧩 **Problem Solving:** 200+ LeetCode problems solved
 
@@ -63,8 +63,12 @@
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LakshyaBetala&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaBetala&layout=compact&theme=tokyonight" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshyabetala&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyabetala&layout=compact&theme=tokyonight" width="41%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyabetala&theme=tokyonight" width="90%" />
 </p>
 
 ---
