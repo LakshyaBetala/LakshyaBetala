@@ -1,77 +1,236 @@
 # 🚀 Lakshya Betala
 
-**Full-Stack Engineer | AI/ML Systems Architect | Lead Software Engineer @ DoItForMe**
+<h3 align="center">
+Founder-Engineer • Samsung R&D Intern • Building AI Systems That Ship
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/lakshya-betala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/LakshyaBetala"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:lakshbetala15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://doitforme.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+20-year-old builder from India turning messy business problems into production software.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/lakshya-betala">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/LakshyaBetala">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:lakshbetala15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.almmatix.in">
+    <img src="https://img.shields.io/badge/Almmatix-000000?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
-## 📊 At a Glance
+# ⚡ At a Glance
 
-| 🎓 **Education** | B.Tech CSE @ SRMIST \| GPA: 9.6/10 |
-|---|---|
-| 🏢 **Experience** | Samsung R&D (AI/ML Intern) \| DoItForMe (Lead Engineer) |
-| 🚀 **Shipped** | 3 live products \| 500+ users \| ₹1L+ monthly volume |
-| 🏆 **Achievements** | 3x Hackathon Winner \| 200+ LeetCode problems |
-
----
-
-## 🛠️ Tech Stack
-
-**AI/ML:** PyTorch • TensorFlow • XGBoost • YOLOv8 • ONNX • TensorRT • DVC • MLflow
-
-**Full-Stack:** Next.js 16 • TypeScript • React • FastAPI • PostgreSQL • Docker
-
-**DevOps:** Vercel • GitHub Actions • Jenkins • Kubernetes
+- 🎓 B.Tech CSE @ SRMIST (GPA: **9.6/10**)
+- 🏢 Samsung R&D Intern (AI/ML)
+- 🚀 Founder @ Almmatix (MSME Registered)
+- 🧠 284+ LeetCode Problems Solved
+- 🏆 3× Hackathon Winner
+- 💼 Building software for paying customers
 
 ---
 
-## 💼 Professional Experience
+# 🏢 What I'm Building
 
-### Lead Software Engineer @ DoItForMe
-**Jan 2026 – Present**
-- 🚀 Built peer-to-peer marketplace serving 500+ users with ₹1L+ monthly transactions
-- 💳 Architected secure escrow system with 100% payment integrity
-- 📊 Integrated ML-based dynamic pricing engine (sub-50ms inference)
-- ⚡ Achieved 99.9% uptime SLA with real-time WebSocket notifications
+## Almmatix
+> MSME-registered AI engineering studio helping businesses automate operations.
 
-### AI/ML Intern @ Samsung R&D
-**Feb – Sep 2025 (Samsung PRISM Program)**
-- 📈 Improved accuracy: 72% → 95% (+23 points) on signal classification
-- ⚡ Reduced latency: 350ms → 240ms (32% faster) via ONNX & TensorRT optimization
-- 📱 Deployed to 3 Samsung smart devices in production
-- 🔬 Benchmarked CNN, LSTM & Transformer architectures for embedded systems
+🌐 https://www.almmatix.in
 
----
+Current clients include:
 
-## 🎯 Featured Projects
+- Supreme Petrochemicals (SPC)
+- Upkar Pharma
+- Arihant
+- Kalanest
 
-| Project | Description | Tech |
-|---|---|---|
-| **[DoItForMe](https://doitforme.vercel.app)** 🟢 LIVE | Gig marketplace with payments & dynamic pricing | Next.js • PostgreSQL • Vercel |
-| **[Watchr AI](https://github.com/LakshyaBetala/Watchr_Ai)** 🟡 BETA | Real-time surveillance (fire, theft, analytics) | YOLOv8 • TypeScript • Docker |
-| **[Saarthi](https://saarthi-deploy.vercel.app)** 🟢 LIVE | Learning management system for 1000+ users | TypeScript • React • Vercel |
-| **[Dynamic Pricing MLOps](https://github.com/LakshyaBetala/dynamic-pricing-mlops)** | ML pipeline with DVC versioning & MLflow tracking | XGBoost • DVC • MLflow |
-| **[Auto-Lawyer](https://github.com/LakshyaBetala/auto-lawyer)** | AI legal document automation | Python • spaCy • OpenAI API |
-| **[News Analyzer](https://github.com/LakshyaBetala/news_analyzer)** | NLP-based news credibility scoring | Python • Transformers • Docker |
+I work directly with clients from discovery → architecture → deployment.
 
 ---
 
-## 💡 What I Bring
+## ASVA
 
-✅ **Production Experience** – 3 live products, real users, real money  
-✅ **Payment Systems** – Built escrow handling ₹1L+ monthly with 100% integrity  
-✅ **ML at Scale** – 32% latency optimization on embedded hardware (Samsung)  
-✅ **Full-Stack** – Frontend (React/Next.js), Backend (APIs), ML, DevOps  
-✅ **System Design** – Real-time systems handling 1000+ concurrent users  
+> AI voice automation platform for Indian businesses.
+
+🌐 https://tryasva.com
+
+Current Status:
+
+- Enterprise pilot underway
+- Paying customer onboarded
+- Voice workflows for lead qualification and follow-ups
+
+Tech Stack:
+
+Exotel • Sarvam STT • LLM Orchestration • WhatsApp • Supabase
+
+Problems solved:
+
+- Manual lead calling
+- Follow-up delays
+- CRM inefficiencies
 
 ---
 
-<p align="center">
-  <strong>"Building scalable solutions for the real world."</strong> 🚀
-</p>
+## DoItForMe
+
+> Fiverr for college students.
+
+🌐 https://www.doitforme.in
+
+Highlights:
+
+- 600+ users
+- ₹60K+ transactions
+- 94% task completion rate
+- Escrow-style payment workflows
+
+Stack:
+
+Next.js • PostgreSQL • Cashfree • Vercel
+
+---
+
+# 💼 Experience
+
+## Samsung R&D Institute India
+### Software Engineering Intern (AI/ML)
+
+Feb 2025 – Sept 2025
+
+- Built AI pipelines converting speech signals into respiratory health metrics.
+- Benchmarked CNN, LSTM, and Transformer architectures.
+- Improved classification accuracy by 23 percentage points.
+- Reduced inference latency by 32% using ONNX Runtime and TensorRT.
+- Deployed across Samsung smart devices.
+
+---
+
+# 🚀 Featured Projects
+
+## Watchr AI
+Enterprise surveillance platform.
+
+Highlights:
+
+- Sub-100ms inference
+- Multi-camera tracking
+- Fire and smoke detection
+- Real-time dashboards
+
+Tech:
+
+YOLOv8 • TensorRT • FastAPI • Supabase
+
+Repository:
+https://github.com/LakshyaBetala/Watchr_Ai
+
+---
+
+## Saarthi
+
+Assistive AI for visually impaired users.
+
+Features:
+
+- Real-time object detection
+- Emotion analysis
+- Voice interactions
+- Android camera integration
+
+Tech:
+
+YOLOv8 • DeepFace • FastAPI • React
+
+---
+
+## Greenlit
+
+AI-powered security auditing platform.
+
+Features:
+
+- Automated scans
+- GitHub fix suggestions
+- Vulnerability reporting
+
+Tech:
+
+FastAPI • Gemini • SQLite • ChromaDB
+
+Status:
+
+Currently under active development.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+Python • TypeScript • JavaScript • Java • C++ • SQL
+
+### AI / ML
+
+PyTorch • TensorFlow • YOLOv8 • ONNX • TensorRT • Scikit-Learn
+
+### Backend
+
+FastAPI • Flask • Node.js • Hono • REST APIs
+
+### Frontend
+
+Next.js • React • Tailwind CSS
+
+### Databases
+
+PostgreSQL • Supabase • Redis • SQLite
+
+### DevOps
+
+Docker • AWS • Jenkins • GitHub Actions • Linux • Vercel
+
+---
+
+# 🏆 Achievements
+
+- 🥇 3× Hackathon Winner
+- 🧠 284+ LeetCode Problems Solved
+- 🏅 Oracle OCI Certified
+- 🤖 Oracle Gen-AI Professional
+- ☁ IBM AI & ML Certified
+
+---
+
+# 💡 Philosophy
+
+> Don't tell me what technology to use.
+
+Tell me what problem hurts.
+
+I'll figure out how to ship the solution.
+
+---
+
+# 📫 Let's Connect
+
+LinkedIn:
+https://linkedin.com/in/lakshya-betala
+
+Email:
+lakshbetala15@gmail.com
+
+GitHub:
+https://github.com/LakshyaBetala
+
+Website:
+https://www.almmatix.in
